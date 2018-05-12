@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '4966'
     url: http://www.gutenberg.org/2009/agents/4966
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13266#Final-Report-of-the-Louisiana-Purchase-Exposition-Commission
 gutenberg_issued: '2004-08-23'
 gutenberg_type: Text
 identifiers:
